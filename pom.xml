@@ -115,8 +115,8 @@
 </plugin>
 		</plugins>
 	</build>
-	</project>
-	<project>
+	
+	
 <distributionManagement>
     <repository>
       <id>maven-releases</id>
